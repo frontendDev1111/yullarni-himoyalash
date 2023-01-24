@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "select": "COMPLETED",
+      "description": "olma 2 kg ",
+      "product": [
+        {
+          "type": "ANOR",
+          "weight": "4"
+        },
+        {
+          "type": "OLMA",
+          "weight": "1"
+        },
+        {
+          "type": "MANDARIN",
+          "weight": "6"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "select": "COMPLETED",
+      "description": "rtygne",
+      "product": [
+        {
+          "type": "OLMA",
+          "weight": "1"
+        }
+      ],
+      "id": 2
+    }
+  ]
+}
